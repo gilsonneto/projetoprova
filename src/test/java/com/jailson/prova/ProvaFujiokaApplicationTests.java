@@ -1,0 +1,13 @@
+package com.jailson.prova;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ProvaFujiokaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
